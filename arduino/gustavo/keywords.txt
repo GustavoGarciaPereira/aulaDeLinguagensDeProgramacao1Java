@@ -1,0 +1,4 @@
+Led	KEWORD1
+ligar	KEWORD2
+desligar	KEWORD2
+piscar	KEWORD2
